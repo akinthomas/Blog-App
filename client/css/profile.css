@@ -1,0 +1,12 @@
+h1 {
+	color: blue;
+	font-size: 36px;
+}
+
+#projects {
+	display: inline-flex;
+}
+
+body{
+	background-color: #f54785;
+}
